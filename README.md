@@ -55,7 +55,7 @@ Click here to select the renderer module directory.
 
 ![photos/0011.png](photos/0011.png)  
 
-Then select the renderers/First directory.  
+Then select the renderers/First directory.  
 
 ![photos/0012.png](photos/0012.png)  
 
